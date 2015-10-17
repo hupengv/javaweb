@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="j1041_news"
+  id="myeclipse.1442384153234"
+  context-root="/j1041_news"
+  j2ee-spec="5.0"
+  archive="j1041_news.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
